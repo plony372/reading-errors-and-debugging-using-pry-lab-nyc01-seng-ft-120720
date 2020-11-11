@@ -7,4 +7,5 @@ def snake_it_up(string)
   else
     newString
   end
+  newString
 end
